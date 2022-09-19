@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=VT323&display=swap");
+* {
+  font-family: "VT323", monospace;
+
+}
+
+.bg {
+  background-image: URL("https://images2.alphacoders.com/111/1114362.png");
+}
